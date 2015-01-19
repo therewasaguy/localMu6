@@ -1,0 +1,5517 @@
+[
+  {
+    "venue": {
+      "latitude": 40.692452,
+      "region": "NY",
+      "name": "Secret Location",
+      "url": "http:\/\/www.bandsintown.com\/venue\/331815",
+      "city": "Brooklyn",
+      "longitude": -73.990356,
+      "id": 331815,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9156627?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Rabit",
+        "name": "Rabit",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/DKDS",
+        "name": "DKDS",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Subset",
+        "name": "Subset",
+        "mbid": "0f002932-54c1-40f8-8651-718b3aba61a7"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Blysk",
+        "name": "Blysk",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/AndSurpriseGuests%21",
+        "name": "and surprise guests!",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/-surpriseGuest1",
+        "name": "-Surprise Guest 1",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/-surpriseGuest2",
+        "name": "-Surprise Guest 2",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Justin-",
+        "name": "Justin -",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/-surpriseGuest3",
+        "name": "-Surprise Guest 3",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9156627\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9156627,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T05:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Athleta",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2572022",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2572022,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9165335?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/LadyCherelle",
+        "name": "Lady Cherelle",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9165335\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9165335,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T09:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7496982,
+      "region": "NY",
+      "name": "The Theater at Madison Square Garden",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2288763",
+      "city": "New York",
+      "longitude": -73.9915592,
+      "id": 2288763,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8546134?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/FreshBeatBand",
+        "name": "Fresh Beat Band",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheFreshBeatBand",
+        "name": "The Fresh Beat Band",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8546134\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8546134,
+    "on_sale_datetime": "2014-08-05T16:57:51",
+    "datetime": "2015-01-18T12:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Angerfist World Tour | Amazura Concert Hall",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2529137",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2529137,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9123192?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Angerfist",
+        "name": "Angerfist",
+        "mbid": "91d8e441-73a6-48a6-aed1-2bef4da87799"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9123192\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9123192,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T12:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "The Cecil",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2426028",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2426028,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9141461?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DeejayCommish",
+        "name": "Deejay Commish",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9141461\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9141461,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T12:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Antique Garage ",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2537937",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2537937,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9144897?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheSwingaroos",
+        "name": "The Swingaroos",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9144897\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9144897,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T13:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.8975,
+      "region": "NJ",
+      "name": "Mexicali Live",
+      "url": "http:\/\/www.bandsintown.com\/venue\/317307",
+      "city": "Teaneck",
+      "longitude": -74.0163889,
+      "id": 317307,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8882314?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TenaflySchoolOfRockPresentsBrooklynBorn",
+        "name": "Tenafly School of Rock Presents Brooklyn Born",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8882314\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8882314,
+    "on_sale_datetime": "2014-10-22T11:05:00",
+    "datetime": "2015-01-18T13:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.739806,
+      "region": "NY",
+      "name": "Cielo",
+      "url": "http:\/\/www.bandsintown.com\/venue\/737811",
+      "city": "New York",
+      "longitude": -74.007133,
+      "id": 737811,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9089954?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/CIRKIZ",
+        "name": "CIRKIZ",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ACoolKid%27sDanceParty",
+        "name": "A Cool Kid's Dance Party",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9089954\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9089954,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T13:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.73942,
+      "region": "NY",
+      "name": "BOUNCE",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1300580",
+      "city": "New York",
+      "longitude": -73.988502,
+      "id": 1300580,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9105111?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjB.mills",
+        "name": "DJ B.Mills",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9105111\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9105111,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T13:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.756692,
+      "region": "NY",
+      "name": "B.B. King Blues Club and Grill",
+      "url": "http:\/\/www.bandsintown.com\/venue\/332190",
+      "city": "New York",
+      "longitude": -73.988312,
+      "id": 332190,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8707533?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/HarlemGospelChoir",
+        "name": "Harlem Gospel Choir",
+        "mbid": "3d35e231-50bb-45fa-80d8-a3dfcd58e4d9"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/SundayGospelBrunch",
+        "name": "Sunday Gospel Brunch",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ADecadeOfSoul",
+        "name": "A DECADE OF SOUL",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Cracker",
+        "name": "Cracker",
+        "mbid": "ca48bfb8-37c5-4a04-9837-a07975ee0cd3"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/CamperVanBeethoven",
+        "name": "Camper Van Beethoven",
+        "mbid": "0ee7e64d-90ca-406b-b59a-3e551c556dbe"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/CrackerAndCamperVanBeethoven",
+        "name": "Cracker & Camper Van Beethoven",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/YaronGershovsky",
+        "name": "Yaron Gershovsky",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/JulieEigenberg",
+        "name": "Julie Eigenberg",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BossaNovaBrunch",
+        "name": "Bossa Nova Brunch",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/YaronGershovskyAndJulieE.",
+        "name": "YARON GERSHOVSKY & JULIE E.",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8707533\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8707533,
+    "on_sale_datetime": "2014-09-05T12:00:00",
+    "datetime": "2015-01-18T13:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.728294,
+      "region": "NY",
+      "name": "Orpheum Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1030586",
+      "city": "New York",
+      "longitude": -73.987702,
+      "id": 1030586,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8838704?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Stomp",
+        "name": "Stomp",
+        "mbid": "a9d39392-8a62-4be9-b80d-8f9c0ca16059"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8838704\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8838704,
+    "on_sale_datetime": "2014-04-30T01:00:00",
+    "datetime": "2015-01-18T14:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.762961,
+      "region": "NY",
+      "name": "Neil Simon Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/875467",
+      "city": "New York",
+      "longitude": -73.98418,
+      "id": 875467,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8841266?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheLastShip",
+        "name": "The Last Ship",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8841266\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8841266,
+    "on_sale_datetime": "2014-05-24T03:00:00",
+    "datetime": "2015-01-18T14:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7594833,
+      "region": "NY",
+      "name": "John Golden Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2483814",
+      "city": "New York",
+      "longitude": -73.9898758,
+      "id": 2483814,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8847762?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ADelicateBalance",
+        "name": "A Delicate Balance",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8847762\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8847762,
+    "on_sale_datetime": "2014-08-30T02:00:00",
+    "datetime": "2015-01-18T14:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.72192,
+      "region": "NY",
+      "name": "Verboten",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1808959",
+      "city": "Brooklyn",
+      "longitude": -73.9588852,
+      "id": 1808959,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9182874?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DimitriTee",
+        "name": "Dimitri Tee",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Amoroso",
+        "name": "Amoroso",
+        "mbid": "21f67afd-199c-471b-a975-fc0d1c29244a"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/MyroslawBytz",
+        "name": "Myroslaw Bytz",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9182874\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9182874,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T14:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.714801,
+      "region": "NY",
+      "name": "indieScreen",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1116384",
+      "city": "Brooklyn",
+      "longitude": -73.966613,
+      "id": 1116384,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8929188?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TonyaKay",
+        "name": "Tonya Kay",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8929188\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8929188,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T14:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.745715,
+      "region": "NY",
+      "name": "Marble Collegiate Church",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2555539",
+      "city": "New York",
+      "longitude": -73.987433,
+      "id": 2555539,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9113957?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/WeAllAreOne",
+        "name": "We All Are One",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9113957\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9113957,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T14:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.761326,
+      "region": "NY",
+      "name": "CIRCLE LINE, THE BROOKLYN BOAT",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1887431",
+      "city": "New York",
+      "longitude": -74.00164,
+      "id": 1887431,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8839962?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheRiver",
+        "name": "The River",
+        "mbid": "6a72abe3-009f-4560-a441-5106d7ca1f30"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8839962\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8839962,
+    "on_sale_datetime": "2014-06-06T03:00:00",
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7582568,
+      "region": "NY",
+      "name": "Booth Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2316933",
+      "city": "New York",
+      "longitude": -73.9863773,
+      "id": 2316933,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8829731?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheElephantMan",
+        "name": "The Elephant Man",
+        "mbid": "4e747f3f-f4eb-4bc7-a58c-5636cb6a98a8"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8829731\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8829731,
+    "on_sale_datetime": "2014-06-05T06:00:00",
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Lyceum Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1275781",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 1275781,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8847714?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DisgraceD",
+        "name": "DisgraceD",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8847714\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8847714,
+    "on_sale_datetime": "2014-07-25T04:00:00",
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.349097,
+      "region": "NJ",
+      "name": "Count Basie Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/19216",
+      "city": "Red Bank",
+      "longitude": -74.069947,
+      "id": 19216,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9135231?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/NeilBerg%27sYearsOfBroadway",
+        "name": "Neil Berg's Years of Broadway",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9135231\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9135231,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Barrymore Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/295124",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 295124,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8845731?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheCuriousIncidentOfTheDogInTheNight-time",
+        "name": "The Curious Incident Of The Dog In The Night-Time",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8845731\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8845731,
+    "on_sale_datetime": "2014-03-28T22:00:00",
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.744216,
+      "region": "NY",
+      "name": "Queens Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1310290",
+      "city": "Queens",
+      "longitude": -73.845352,
+      "id": 1310290,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9145548?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/%E3%80%90%E7%88%B1%E8%81%9A%E5%A8%B1%E4%B9%90%E3%80%911%252F18Icn%E5%9B%BD%E9%99%85%E5%8D%AB%E8%A7%86%E3%80%8A%E6%98%9F%E5%85%89%E5%A4%A7%E9%81%93%E3%80%8B%E7%BA%BD%E7%BA%A6%E8%B5%9B%E5%8C%BA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%94%AE%E7%A5%A8",
+        "name": "\u3010\u7231\u805a\u5a31\u4e50\u30111\/18 ICN\u56fd\u9645\u536b\u89c6\u300a\u661f\u5149\u5927\u9053\u300b\u7ebd\u7ea6\u8d5b\u533a\u603b\u51b3\u8d5b\u552e\u7968",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9145548\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9145548,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7594833,
+      "region": "NY",
+      "name": "Bernard B Jacobs Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2483641",
+      "city": "New York",
+      "longitude": -73.9898758,
+      "id": 2483641,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8846544?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ONCE",
+        "name": "ONCE",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8846544\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8846544,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T15:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7218927,
+      "region": "NY",
+      "name": "Rockwood Music Hall",
+      "url": "http:\/\/www.bandsintown.com\/venue\/130342",
+      "city": "New York",
+      "longitude": -73.988847,
+      "id": 130342,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9014018?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/StephanieFalcone",
+        "name": "Stephanie Falcone",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/CariadHarmon",
+        "name": "Cariad Harmon",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/DannySchmidt",
+        "name": "Danny Schmidt",
+        "mbid": "c5962809-e0d6-4607-b71c-9f58b0e0da13"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheBooklights",
+        "name": "The Booklights",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9014018\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9014018,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T16:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "The Cell Theater",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2378087",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2378087,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9180963?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/NoahHoffeld",
+        "name": "Noah Hoffeld",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9180963\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9180963,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T16:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.6635094,
+      "region": "NJ",
+      "name": "The Lobby",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2453572",
+      "city": "Elizabeth",
+      "longitude": -74.2114563,
+      "id": 2453572,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8949594?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjDavidS.FanPage",
+        "name": "DJ David S. Fan Page",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8949594\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8949594,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T16:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.654424,
+      "region": "NJ",
+      "name": "Crossroads",
+      "url": "http:\/\/www.bandsintown.com\/venue\/292928",
+      "city": "Garwood",
+      "longitude": -74.317897,
+      "id": 292928,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9140734?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/LakeOfOrchards",
+        "name": "Lake of Orchards",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9140734\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9140734,
+    "on_sale_datetime": "2015-01-10T13:00:00",
+    "datetime": "2015-01-18T16:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.721328,
+      "region": "NY",
+      "name": "Arlene's Grocery",
+      "url": "http:\/\/www.bandsintown.com\/venue\/25713",
+      "city": "New York",
+      "longitude": -73.988235,
+      "id": 25713,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9160572?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DirtyDelorean",
+        "name": "Dirty Delorean",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/MoseyJones",
+        "name": "Mosey Jones",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/McElijahBlack",
+        "name": "MC Elijah Black",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/LineDon%27tCross",
+        "name": "Line Don't Cross",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9160572\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9160572,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T17:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.750468,
+      "region": "NY",
+      "name": "Zuma",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2570057",
+      "city": "New York",
+      "longitude": -73.980608,
+      "id": 2570057,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9159713?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjVida",
+        "name": "Dj Vida",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9159713\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9159713,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.65,
+      "region": "NY",
+      "name": "Bizarre Bar",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2280100",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "id": 2280100,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9140381?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Steamboats",
+        "name": "Steamboats",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheNextGreatAmericanNovelist",
+        "name": "The Next Great American Novelist",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9140381\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9140381,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.4991667,
+      "region": "NJ",
+      "name": "Wild Jokers",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2557606",
+      "city": "Piscataway",
+      "longitude": -74.3994444,
+      "id": 2557606,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9120427?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/BR3AKDOWN",
+        "name": "BR3AKDOWN",
+        "mbid": "6ae8d2e0-1c27-4995-981d-bc8ba65844d1"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9120427\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9120427,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.9486111,
+      "region": "NY",
+      "name": "Bar'lees ",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2560804",
+      "city": "Mamaroneck",
+      "longitude": -73.7330556,
+      "id": 2560804,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9129937?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TakeshiAsai%2CPianistAndComposer",
+        "name": "Takeshi Asai, pianist & composer",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9129937\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9129937,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.737228,
+      "region": "NY",
+      "name": "BLACKTHORN 51",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1788183",
+      "city": "New York",
+      "longitude": -73.88327,
+      "id": 1788183,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9037029?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/LillianAxe",
+        "name": "Lillian Axe",
+        "mbid": "2017acdf-899e-4db3-a237-06696d8af58b"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9037029\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9037029,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7538889,
+      "region": "NY",
+      "name": "Hollis Woods Community Church",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1956350",
+      "city": "Oakland Gardens",
+      "longitude": -73.7663889,
+      "id": 1956350,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9162639?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheCavalryIsUs",
+        "name": "The Cavalry Is Us",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9162639\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9162639,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T18:00:10"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "New Amsterdam Theater",
+      "url": "http:\/\/www.bandsintown.com\/venue\/325768",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 325768,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8843264?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ALADDIN",
+        "name": "ALADDIN",
+        "mbid": "9ff51ecf-d282-4a26-8ac9-85d69bd3079b"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8843264\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8843264,
+    "on_sale_datetime": "2014-07-28T13:00:00",
+    "datetime": "2015-01-18T18:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.726343,
+      "region": "NY",
+      "name": "City Winery",
+      "url": "http:\/\/www.bandsintown.com\/venue\/350864",
+      "city": "New York",
+      "longitude": -74.005791,
+      "id": 350864,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9044229?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ShanePiasecki",
+        "name": "Shane Piasecki",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/HowieDay",
+        "name": "Howie Day",
+        "mbid": "1aff9117-5820-490d-9938-ccad96669292"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9044229\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9044229,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.721205,
+      "region": "NY",
+      "name": "Arlenes Grocery",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1171946",
+      "city": "New York",
+      "longitude": -73.988141,
+      "id": 1171946,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9144858?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ShinobiNinja",
+        "name": "Shinobi Ninja",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9144858\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9144858,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Aqua Restaurant",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2575821",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2575821,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9175593?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/LadyGagaImpersonatorAthenaReich",
+        "name": "Lady Gaga Impersonator Athena Reich",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/AthenaReich",
+        "name": "Athena Reich",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9175593\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9175593,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7619274,
+      "region": "NY",
+      "name": "Iridium Jazz Club",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1211626",
+      "city": "New York",
+      "longitude": -73.9836583,
+      "id": 1211626,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8924985?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/EdPalermo",
+        "name": "Ed Palermo",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8924985\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8924985,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7594833,
+      "region": "NY",
+      "name": "Broadhurst Theatre",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2327314",
+      "city": "New York",
+      "longitude": -73.9898758,
+      "id": 2327314,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8846141?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/MammaMia%21",
+        "name": "Mamma Mia!",
+        "mbid": "16c7efde-5b83-4e4e-b9f0-fefef852bd62"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8846141\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8846141,
+    "on_sale_datetime": "2014-08-15T02:37:00",
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.72086,
+      "region": "NY",
+      "name": "Living Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/718169",
+      "city": "New York",
+      "longitude": -73.987769,
+      "id": 718169,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9212490?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/GregTrooper",
+        "name": "Greg Trooper",
+        "mbid": "ddaffd02-ebee-4b5d-98f5-155b5a892790"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BuddyMondlock",
+        "name": "Buddy Mondlock",
+        "mbid": "23db2fc9-764a-4adc-a269-cef167b755c4"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212490\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9212490,
+    "on_sale_datetime": "2015-01-02T15:35:00",
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7266667,
+      "region": "NY",
+      "name": "Hollis Woods Community Church",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1634881",
+      "city": "Queens Village",
+      "longitude": -73.7419444,
+      "id": 1634881,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9138264?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Cutters",
+        "name": "Cutters",
+        "mbid": "67223a7a-bc7e-4194-bdcf-3f67f075d4e1"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9138264\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9138264,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.769704,
+      "region": "NY",
+      "name": "Terminal 5",
+      "url": "http:\/\/www.bandsintown.com\/venue\/290649",
+      "city": "New York",
+      "longitude": -73.992414,
+      "id": 290649,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9041245?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DillonFrancis",
+        "name": "Dillon Francis",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BroSafari",
+        "name": "Bro Safari",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9041245\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9041245,
+    "on_sale_datetime": "2014-12-05T12:00:00",
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.73178,
+      "region": "NY",
+      "name": "WEBSTER HALL",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1571816",
+      "city": "New York",
+      "longitude": -73.989715,
+      "id": 1571816,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9090660?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/G-Eazy",
+        "name": "G-Eazy",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9090660\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9090660,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.62225,
+      "region": "NY",
+      "name": "The Hideout",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1776434",
+      "city": "Brooklyn",
+      "longitude": -74.025169,
+      "id": 1776434,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9115251?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/HammerFight",
+        "name": "Hammer Fight",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9115251\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9115251,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.721854,
+      "region": "NY",
+      "name": "Rockwood Music Hall Stage 2",
+      "url": "http:\/\/www.bandsintown.com\/venue\/920068",
+      "city": "New York",
+      "longitude": -73.988738,
+      "id": 920068,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9029243?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/CharlesYang",
+        "name": "Charles Yang",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9029243\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9029243,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7266667,
+      "region": "NY",
+      "name": "Holliswoods Community Church",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2048007",
+      "city": "Queens Village",
+      "longitude": -73.7419444,
+      "id": 2048007,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9203086?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/YourHouse",
+        "name": "Your House",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9203086\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9203086,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Tbc",
+      "url": "http:\/\/www.bandsintown.com\/venue\/339750",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 339750,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8987549?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/PatriceMeiner",
+        "name": "Patrice Meiner",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8987549\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8987549,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.3613889,
+      "region": "NJ",
+      "name": "1184 Ocean Ave",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2490875",
+      "city": "Sea Bright",
+      "longitude": -73.9744444,
+      "id": 2490875,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9191857?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TeenageHalloween",
+        "name": "Teenage Halloween",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9191857\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9191857,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.71455,
+      "region": "NY",
+      "name": "AMH",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2562754",
+      "city": "New York",
+      "longitude": -74.007118,
+      "id": 2562754,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9136818?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/GinWar",
+        "name": "GIN WAR",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9136818\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9136818,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.741568,
+      "region": "NY",
+      "name": "Metropolitan Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2163963",
+      "city": "New York",
+      "longitude": -73.992,
+      "id": 2163963,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8915901?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Mich%C3%A8leBautier",
+        "name": "Mich\u00e8le Bautier",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Broadsway",
+        "name": "Broadsway",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Artists%27AndIndustryMarketingSeminar",
+        "name": "Artists' & Industry Marketing Seminar",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BernieFurshpan",
+        "name": "Bernie Furshpan",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8915901\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8915901,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.65,
+      "region": "NY",
+      "name": "The Lilving Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2575658",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "id": 2575658,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9174987?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SoniaAndDisappearfear",
+        "name": "SONiA and disappearfear",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9174987\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9174987,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7269212,
+      "region": "NY",
+      "name": "Good Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2500556",
+      "city": "Brooklyn",
+      "longitude": -73.9530435,
+      "id": 2500556,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9189072?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjSpun",
+        "name": "DJ Spun",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/VS",
+        "name": "VS",
+        "mbid": "8e979eb5-b065-4629-ab8c-6098cb9dda6e"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/MikeServito",
+        "name": "MIKE SERVITO",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9189072\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9189072,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.72086,
+      "region": "NY",
+      "name": "The Living Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1075585",
+      "city": "New York",
+      "longitude": -73.987769,
+      "id": 1075585,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9174993?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SoniaDisappearFear",
+        "name": "SONiA disappear fear",
+        "mbid": "be8d6886-0a2d-4312-a174-de192ee77eb2"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9174993\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9174993,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.668963,
+      "region": "NY",
+      "name": "KJ Farrell's",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1124968",
+      "city": "Bellmore",
+      "longitude": -73.529673,
+      "id": 1124968,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8689877?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/JesusChristPose",
+        "name": "jesus christ pose",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/SoundgardenTributeBand",
+        "name": "Soundgarden Tribute Band",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8689877\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8689877,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.761075,
+      "region": "NY",
+      "name": "Eugene O'Neill Theater",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1711376",
+      "city": "New York",
+      "longitude": -73.985756,
+      "id": 1711376,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8847326?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheBookOfMormon",
+        "name": "The Book of Mormon",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8847326\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8847326,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "The Bitter End",
+      "url": "http:\/\/www.bandsintown.com\/venue\/37080",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 37080,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9183746?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/LindsayBenjaminMusic",
+        "name": "Lindsay Benjamin Music",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9183746\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9183746,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.724041,
+      "region": "NY",
+      "name": "AURA LIGHT AND SOUND SUITE",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1342494",
+      "city": "East Meadow",
+      "longitude": -73.566368,
+      "id": 1342494,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9137826?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/MasqueradeBall%40AuraNightClub",
+        "name": "Masquerade Ball @ Aura Night Club",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9137826\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9137826,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.754372,
+      "region": "NY",
+      "name": "SYSTEM DANCECLUB",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1215530",
+      "city": "Long Island City",
+      "longitude": -73.93,
+      "id": 1215530,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9137827?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ElectricCarnival2%40SystemDanceClub",
+        "name": "Electric Carnival 2 @ System Dance Club",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9137827\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9137827,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.722488,
+      "region": "NY",
+      "name": "Warsaw Dom Narodowy",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2524891",
+      "city": "Brooklyn",
+      "longitude": -73.948392,
+      "id": 2524891,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9000106?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/CzerwoneGitary",
+        "name": "Czerwone Gitary",
+        "mbid": "629a0273-2527-4a4b-83f2-0c52a6d8da4d"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9000106\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9000106,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T19:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Caffe Vivaldi ",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1860039",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 1860039,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9199904?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/AmandaSprecher%2CVocalist",
+        "name": "Amanda Sprecher, Vocalist",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9199904\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9199904,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.721876,
+      "region": "NY",
+      "name": "Brooklyn Bowl",
+      "url": "http:\/\/www.bandsintown.com\/venue\/824379",
+      "city": "Brooklyn",
+      "longitude": -73.957676,
+      "id": 824379,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9181742?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheBoogieRockBoys",
+        "name": "The Boogie Rock Boys",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9181742\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9181742,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7221247,
+      "region": "NY",
+      "name": "Brooklyn Bowl",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2367494",
+      "city": "Brooklyn",
+      "longitude": -73.9575262,
+      "id": 2367494,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8803179?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Mention%22bowlingSpecial%22AtShoeDeskToGet50%25OffAnyLaneStartingAfter8pm",
+        "name": "Mention \"Bowling Special\" at shoe desk to get 50% off any lane starting after 8pm",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BoogieRockBoys",
+        "name": "Boogie Rock Boys",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8803179\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8803179,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.72215,
+      "region": "NY",
+      "name": "Mercury Lounge",
+      "url": "http:\/\/www.bandsintown.com\/venue\/37373",
+      "city": "New York",
+      "longitude": -73.986825,
+      "id": 37373,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8956302?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/WoodyPines",
+        "name": "Woody Pines",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8956302\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8956302,
+    "on_sale_datetime": "2014-11-14T12:00:00",
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.709252,
+      "region": "NY",
+      "name": "The Acheron",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1038279",
+      "city": "Brooklyn",
+      "longitude": -73.937176,
+      "id": 1038279,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9079960?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/GenocidePact",
+        "name": "Genocide Pact",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Narc",
+        "name": "Narc",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Grudges",
+        "name": "Grudges",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9079960\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9079960,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.65,
+      "region": "NY",
+      "name": "Brooklyn Bowl",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1703316",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "id": 1703316,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9102245?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DanaFuchs",
+        "name": "Dana Fuchs",
+        "mbid": "96f25b78-e27c-4a0b-8850-9fbf9343d347"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9102245\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9102245,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.723282,
+      "region": "NY",
+      "name": "Mary O's",
+      "url": "http:\/\/www.bandsintown.com\/venue\/995816",
+      "city": "New York",
+      "longitude": -73.985214,
+      "id": 995816,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9063378?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ErikaAndCeddy%3A",
+        "name": "Erika and Ceddy:",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9063378\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9063378,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7208379,
+      "region": "NY",
+      "name": "Cake Shop",
+      "url": "http:\/\/www.bandsintown.com\/venue\/336080",
+      "city": "New York",
+      "longitude": -73.9879075,
+      "id": 336080,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9052134?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SlimTwig",
+        "name": "Slim Twig",
+        "mbid": "4d550bdc-7c0b-4a50-bd36-18584ad5fb70"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9052134\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9052134,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 41.055,
+      "region": "NY",
+      "name": "Pete's Saloon & Restaurant",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2486427",
+      "city": "Elmsford",
+      "longitude": -73.8205556,
+      "id": 2486427,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8860856?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/IndieSauce",
+        "name": "Indie Sauce",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8860856\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8860856,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.6011014,
+      "region": "NY",
+      "name": "SubCulture Arts Underground",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1995019",
+      "city": "Staten Island",
+      "longitude": -74.1642842,
+      "id": 1995019,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8620287?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SYBARITE5",
+        "name": "SYBARITE5",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8620287\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8620287,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T20:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Cafe Wha",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1550157",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 1550157,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9055271?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/The%253FHouseBand",
+        "name": "The ? House Band",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9055271\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9055271,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 41.0533333,
+      "region": "CT",
+      "name": "Brick House Bar & Grill",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2573535",
+      "city": "Stamford",
+      "longitude": -73.5391667,
+      "id": 2573535,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9168741?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjJonesy",
+        "name": "DJ Jonesy",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9168741\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9168741,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.9946117,
+      "region": "NY",
+      "name": "River Roadhouse",
+      "url": "http:\/\/www.bandsintown.com\/venue\/701384",
+      "city": "Hastings-On-Hudson",
+      "longitude": -73.8824431,
+      "id": 701384,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9202539?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DiviningRod",
+        "name": "Divining Rod",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9202539\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9202539,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.728513,
+      "region": "NY",
+      "name": "Le Poisson Rouge",
+      "url": "http:\/\/www.bandsintown.com\/venue\/775996",
+      "city": "New York",
+      "longitude": -73.99988,
+      "id": 775996,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9161338?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Oh%21YouPrettyThings5YearAnniversary",
+        "name": "Oh! You Pretty Things 5 year anniversary",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9161338\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9161338,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.719704,
+      "region": "NY",
+      "name": "Spectrum NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1820912",
+      "city": "New York",
+      "longitude": -73.988815,
+      "id": 1820912,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8964735?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheCellarAndPointPresents",
+        "name": "the cellar and point presents",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8964735\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8964735,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.75663,
+      "region": "NY",
+      "name": "B.B. King Blues Club",
+      "url": "http:\/\/www.bandsintown.com\/venue\/748718",
+      "city": "New York",
+      "longitude": -73.988355,
+      "id": 748718,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9206468?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Nyc%27s%231ReggaeBandSkadanks",
+        "name": "NYC's #1 Reggae Band Skadanks",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/DJS",
+        "name": "DJS",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9206468\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9206468,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.700298,
+      "region": "NY",
+      "name": "Amazura",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1476389",
+      "city": "Queens",
+      "longitude": -73.809952,
+      "id": 1476389,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9113043?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/Elevate",
+        "name": "Elevate",
+        "mbid": "e37dbdb8-fac9-4011-8707-0b2862033fb2"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjGetter",
+        "name": "DJ Getter",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9113043\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9113043,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7,
+      "region": "NY",
+      "name": "AMAZURA CONCERT HALL",
+      "url": "http:\/\/www.bandsintown.com\/venue\/321049",
+      "city": "Jamaica",
+      "longitude": -73.81,
+      "id": 321049,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9182936?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ReactorVsDestabilizers",
+        "name": "Reactor vs Destabilizers",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Bassbeef",
+        "name": "Bassbeef",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/CoddDubz",
+        "name": "Codd Dubz",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/dialedIN",
+        "name": "dialedIN",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/FelixBizarre",
+        "name": "Felix Bizarre",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/JakeDukes",
+        "name": "Jake Dukes",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Jooks.",
+        "name": "Jooks.",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ParkerRoberson",
+        "name": "Parker Roberson",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ProjektExp",
+        "name": "Projekt EXP",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Provokative",
+        "name": "Provokative",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/R3dbeard",
+        "name": "R3dbeard",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjSeriousLee",
+        "name": "DJ Serious Lee",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9182936\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9182936,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Norwegian Breakaway ",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2539449",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2539449,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9055059?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/VinceStrong",
+        "name": "Vince Strong",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9055059\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9055059,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:00:01"
+  },
+  {
+    "venue": {
+      "latitude": 40.733744,
+      "region": "NY",
+      "name": "55 Bar",
+      "url": "http:\/\/www.bandsintown.com\/venue\/747417",
+      "city": "New York",
+      "longitude": -74.002305,
+      "id": 747417,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9021537?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/WillSellenraad",
+        "name": "Will Sellenraad",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9021537\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9021537,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T21:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.684437,
+      "region": "NY",
+      "name": "Iridium",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1469274",
+      "city": "New York",
+      "longitude": -73.913278,
+      "id": 1469274,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8927847?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/EdPalermoBigBand",
+        "name": "Ed Palermo Big Band",
+        "mbid": "01caf62f-80ac-4b92-94fa-ec6fd610c7ec"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8927847\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 8927847,
+    "on_sale_datetime": "2014-11-04T12:00:00",
+    "datetime": "2015-01-18T21:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.75528,
+      "region": "NY",
+      "name": "Purlieu",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2528911",
+      "city": "Astoria",
+      "longitude": -73.927525,
+      "id": 2528911,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9210721?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ThisSun%21Jan18",
+        "name": "This Sun! Jan 18",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9210721\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9210721,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Sapphire Club",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2063168",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2063168,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8975714?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/BambuJessica",
+        "name": "Bambu Jessica",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8975714\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8975714,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.75002,
+      "region": "NY",
+      "name": "Marquee NY nightclub",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2581233",
+      "city": "New York",
+      "longitude": -74.00267,
+      "id": 2581233,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9192851?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/The9thOutmusicAwardsCurveMagazineVipOmaDoublePass",
+        "name": "The 9th OUTmusic Awards Curve Magazine VIP OMA Double Pass",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9192851\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9192851,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.700545,
+      "region": "NY",
+      "name": "AMAZURA",
+      "url": "http:\/\/www.bandsintown.com\/venue\/825699",
+      "city": "Jamaica",
+      "longitude": -73.8101327,
+      "id": 825699,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9102484?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/United",
+        "name": "United",
+        "mbid": "53bd98dd-6c5b-43e0-9688-7c7e869a96c7"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Angerfist-lastStopOnUsaTour",
+        "name": "Angerfist -Last stop on USA tour",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Luminox",
+        "name": "Luminox",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Getter",
+        "name": "Getter",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/LadyFaith",
+        "name": "Lady Faith",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9102484\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9102484,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.632982,
+      "region": "NY",
+      "name": "Jazz Standard",
+      "url": "http:\/\/www.bandsintown.com\/venue\/122487",
+      "city": "New York",
+      "longitude": -73.95113,
+      "id": 122487,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9212371?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/AaronGoldbergTrio",
+        "name": "Aaron Goldberg Trio",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212371\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9212371,
+    "on_sale_datetime": "2014-12-01T17:00:00",
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.901234,
+      "region": "NY",
+      "name": "Rory Dolan's",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2000715",
+      "city": "New York",
+      "longitude": -73.862117,
+      "id": 2000715,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9152753?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/TheAmishOutlaws",
+        "name": "The Amish Outlaws",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9152753\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9152753,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.749931,
+      "region": "NY",
+      "name": "MARQUEE NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1593566",
+      "city": "New York",
+      "longitude": -74.002518,
+      "id": 1593566,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9073149?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/neon",
+        "name": "neon",
+        "mbid": "839ec4c2-7d59-4dc9-a966-4f6920ceb7d6"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9073149\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9073149,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.727682,
+      "region": "NY",
+      "name": "Le Souk",
+      "url": "http:\/\/www.bandsintown.com\/venue\/337195",
+      "city": "New York",
+      "longitude": -73.999297,
+      "id": 337195,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9212758?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/DjBlazinB",
+        "name": "DJ BlaZin B",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212758\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9212758,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.737233,
+      "region": "NY",
+      "name": "BlackThorn 51",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1852214",
+      "city": "Queens",
+      "longitude": -73.883268,
+      "id": 1852214,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9139089?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/EternityFallen",
+        "name": "Eternity Fallen",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/Logan%27sRoom",
+        "name": "Logan's Room",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9139089\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9139089,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.725159,
+      "region": "NY",
+      "name": "DROM",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1472296",
+      "city": "New York",
+      "longitude": -73.984169,
+      "id": 1472296,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9117346?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SergioKrakowski",
+        "name": "Sergio Krakowski",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ColetivoChamaAndDjJackInslee",
+        "name": "Coletivo Chama and DJ Jack Inslee",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9117346\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9117346,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7548437,
+      "region": "NY",
+      "name": "ARENA",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1096302",
+      "city": "New York",
+      "longitude": -73.9860454,
+      "id": 1096302,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9189074?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/CristianArango",
+        "name": "CRISTIAN ARANGO",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/GreggDubz",
+        "name": "GREGG DUBZ",
+        "mbid": null
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/BernyBurnz",
+        "name": "Berny Burnz",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9189074\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9189074,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T22:30:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.71455,
+      "region": "NY",
+      "name": "1-Oak NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2493653",
+      "city": "New York",
+      "longitude": -74.007124,
+      "id": 2493653,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9208999?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ThePandaLife",
+        "name": "The Panda Life",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9208999\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9208999,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.71455,
+      "region": "NY",
+      "name": "1-Oak NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2493653",
+      "city": "New York",
+      "longitude": -74.007124,
+      "id": 2493653,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9209000?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ThePandaLife",
+        "name": "The Panda Life",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9209000\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9209000,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.71455,
+      "region": "NY",
+      "name": "1-Oak NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2493653",
+      "city": "New York",
+      "longitude": -74.007124,
+      "id": 2493653,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9209001?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ThePandaLife",
+        "name": "The Panda Life",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9209001\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9209001,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Electric Room",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1887744",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 1887744,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9136053?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/CHACHI",
+        "name": "CHACHI",
+        "mbid": ""
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9136053\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9136053,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7650757,
+      "region": "NY",
+      "name": "SOUNDFACTORY",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2548948",
+      "city": "New York",
+      "longitude": -73.9959869,
+      "id": 2548948,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9092277?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/JuniorSanchez",
+        "name": "Junior Sanchez",
+        "mbid": "97523d67-c4df-4dc6-b27c-c3294ea54c49"
+      },
+      {
+        "url": "http:\/\/www.bandsintown.com\/ClevelandSkyers",
+        "name": "Cleveland Skyers",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9092277\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "available",
+    "id": 9092277,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7419429,
+      "region": "NY",
+      "name": "Gilded Lily",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2108579",
+      "city": "New York",
+      "longitude": -74.0056739,
+      "id": 2108579,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9198029?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/MelDebarge",
+        "name": "Mel DeBarge",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9198029\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9198029,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.7141667,
+      "region": "NY",
+      "name": "Sapphire (DJ Set)",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2550765",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "id": 2550765,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/9098974?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/SkyBlu",
+        "name": "Sky Blu",
+        "mbid": "3c01fcb0-1355-4c2e-9b8c-5479016a8038"
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9098974\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 9098974,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "venue": {
+      "latitude": 40.75892,
+      "region": "NY",
+      "name": "Birdland NYC",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1008907",
+      "city": "New York",
+      "longitude": -73.989378,
+      "id": 1008907,
+      "country": "United States"
+    },
+    "url": "http:\/\/www.bandsintown.com\/event\/8990707?app_id=they_good_bro",
+    "artists": [
+      {
+        "url": "http:\/\/www.bandsintown.com\/ArturoO%27farrillAfroLatinJazzOrchestra",
+        "name": "Arturo O'Farrill Afro Latin Jazz Orchestra",
+        "mbid": null
+      }
+    ],
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8990707\/buy_tickets?app_id=they_good_bro",
+    "ticket_status": "unavailable",
+    "id": 8990707,
+    "on_sale_datetime": null,
+    "datetime": "2015-01-18T23:00:00"
+  },
+  {
+    "datetime": "2015-01-19T12:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Rhymageddon",
+        "name": "Rhymageddon"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9212779?app_id=they_good_bro",
+    "id": 9212779,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212779\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2015-01-17T18:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NJ",
+      "city": "Newark",
+      "longitude": -74.1727778,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2029389",
+      "id": 2029389,
+      "latitude": 40.7355556,
+      "name": "East Side High School"
+    }
+  },
+  {
+    "datetime": "2015-01-19T12:30:00",
+    "artists": [
+      {
+        "mbid": "3d35e231-50bb-45fa-80d8-a3dfcd58e4d9",
+        "url": "http:\/\/www.bandsintown.com\/HarlemGospelChoir",
+        "name": "Harlem Gospel Choir"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8707532?app_id=they_good_bro",
+    "id": 8707532,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8707532\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-09-19T12:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988312,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/332190",
+      "id": 332190,
+      "latitude": 40.756692,
+      "name": "B.B. King Blues Club and Grill"
+    }
+  },
+  {
+    "datetime": "2015-01-19T13:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/NewYorkIslandersVs.PhiladelphiaFlyers",
+        "name": "New York Islanders vs. Philadelphia Flyers"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8556255?app_id=they_good_bro",
+    "id": 8556255,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8556255\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-08-09T02:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Uniondale",
+      "longitude": -73.5891006,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/275509",
+      "id": 275509,
+      "latitude": 40.7195693,
+      "name": "Nassau Coliseum"
+    }
+  },
+  {
+    "datetime": "2015-01-19T17:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/EricStanley",
+        "name": "Eric Stanley"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Anhayla",
+        "name": "Anhayla"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MarcusStanley",
+        "name": "Marcus Stanley"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9187174?app_id=they_good_bro",
+    "id": 9187174,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9187174\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.948644,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1552362",
+      "id": 1552362,
+      "latitude": 40.6318798,
+      "name": "Walt Whitman Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-19T17:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/NewYorkKnicksVs.NewOrleansPelicans",
+        "name": "New York Knicks vs. New Orleans Pelicans"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8657032?app_id=they_good_bro",
+    "id": 8657032,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8657032\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9933853,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/313336",
+      "id": 313336,
+      "latitude": 40.7504807,
+      "name": "Madison Square Garden"
+    }
+  },
+  {
+    "datetime": "2015-01-19T18:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SteveEarle%27sAnnualWinterResidency",
+        "name": "Steve Earle's Annual Winter Residency"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9181580?app_id=they_good_bro",
+    "id": 9181580,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9181580\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.005685,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2253394",
+      "id": 2253394,
+      "latitude": 40.72634,
+      "name": "City Winery New York"
+    }
+  },
+  {
+    "datetime": "2015-01-19T18:00:30",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DaveAustinAndTheSound",
+        "name": "Dave Austin and The Sound"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9023203?app_id=they_good_bro",
+    "id": 9023203,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9023203\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.984532,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1057204",
+      "id": 1057204,
+      "latitude": 40.759631,
+      "name": "The Real Radio Show"
+    }
+  },
+  {
+    "datetime": "2015-01-19T18:30:00",
+    "artists": [
+      {
+        "mbid": "12e1511f-6ab3-42ef-b865-861ca51a5620",
+        "url": "http:\/\/www.bandsintown.com\/Howard",
+        "name": "Howard"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/CraigMartinson",
+        "name": "Craig Martinson"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Df3music",
+        "name": "Df3music"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8925503?app_id=they_good_bro",
+    "id": 8925503,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8925503\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-07T12:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.986825,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/37373",
+      "id": 37373,
+      "latitude": 40.72215,
+      "name": "Mercury Lounge"
+    }
+  },
+  {
+    "datetime": "2015-01-19T18:30:00",
+    "artists": [
+      {
+        "mbid": "06390f4e-24dc-4f64-bd56-708c70159176",
+        "url": "http:\/\/www.bandsintown.com\/TomWopat",
+        "name": "Tom Wopat"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9203326?app_id=they_good_bro",
+    "id": 9203326,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9203326\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.989433,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/636979",
+      "id": 636979,
+      "latitude": 40.76067,
+      "name": "Don't Tell Mama"
+    }
+  },
+  {
+    "datetime": "2015-01-19T18:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BloodBrothers%7EtheMusical",
+        "name": "Blood Brothers ~The Musical"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/StageTime",
+        "name": "Stage Time"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8915900?app_id=they_good_bro",
+    "id": 8915900,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8915900\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.992,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2163963",
+      "id": 2163963,
+      "latitude": 40.741568,
+      "name": "Metropolitan Room"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JoanneTatham",
+        "name": "Joanne Tatham"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheTamirHendelmanQuartet%22outOfMyDreams%22CdRelease",
+        "name": "the Tamir Hendelman Quartet \"Out of My Dreams\" CD Release"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9046302?app_id=they_good_bro",
+    "id": 9046302,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9046302\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.989378,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/167754",
+      "id": 167754,
+      "latitude": 40.75892,
+      "name": "Birdland"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/LadyGagaImpersonatorAthenaReich",
+        "name": "Lady Gaga Impersonator Athena Reich"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9160235?app_id=they_good_bro",
+    "id": 9160235,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9160235\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2570216",
+      "id": 2570216,
+      "latitude": 40.7141667,
+      "name": "Town Hall Theater"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/AmandaSprecher%2CVocalist",
+        "name": "Amanda Sprecher, Vocalist"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9199916?app_id=they_good_bro",
+    "id": 9199916,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9199916\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1976996",
+      "id": 1976996,
+      "latitude": 40.7141667,
+      "name": "Pianos (Upstairs Lounge)"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/AthenaReich",
+        "name": "Athena Reich"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9160246?app_id=they_good_bro",
+    "id": 9160246,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9160246\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2570215",
+      "id": 2570215,
+      "latitude": 40.7141667,
+      "name": "Town Hall Theater"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JohnRaymond",
+        "name": "John Raymond"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9193329?app_id=they_good_bro",
+    "id": 9193329,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9193329\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2583310",
+      "id": 2583310,
+      "latitude": 40.7141667,
+      "name": "Orrin Evans & Captain Black Big Band @ Smoke Jazz Club"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": "d5c9ee75-5711-469f-b671-669dcde5c9bf",
+        "url": "http:\/\/www.bandsintown.com\/WillyMason",
+        "name": "Willy Mason"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9180024?app_id=they_good_bro",
+    "id": 9180024,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9180024\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2577118",
+      "id": 2577118,
+      "latitude": 40.7141667,
+      "name": "City Winery (Supporting Steve Earle)"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JoeyBadass",
+        "name": "Joey Badass"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9189769?app_id=they_good_bro",
+    "id": 9189769,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9189769\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9598502,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2119595",
+      "id": 2119595,
+      "latitude": 40.7209863,
+      "name": "Rough Trade"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": "e77d6c32-4a07-4bf9-8ba5-25684d6c4e28",
+        "url": "http:\/\/www.bandsintown.com\/S%C3%A9bastienSchuller",
+        "name": "S\u00e9bastien Schuller"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9126283?app_id=they_good_bro",
+    "id": 9126283,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9126283\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.987865,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1059990",
+      "id": 1059990,
+      "latitude": 40.721023,
+      "name": "Pianos"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MarcoPanascia",
+        "name": "Marco Panascia"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8766672?app_id=they_good_bro",
+    "id": 8766672,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8766672\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.989922,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2465807",
+      "id": 2465807,
+      "latitude": 40.75898,
+      "name": "Birdland with Joanne Tatham and Tamir Hendelman"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:00:00",
+    "artists": [
+      {
+        "mbid": "ec863030-7c13-45a3-a025-a69195d3a020",
+        "url": "http:\/\/www.bandsintown.com\/SteveEarle",
+        "name": "Steve Earle"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8822270?app_id=they_good_bro",
+    "id": 8822270,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8822270\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.005791,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/350864",
+      "id": 350864,
+      "latitude": 40.726343,
+      "name": "City Winery"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/LaBoheme",
+        "name": "LA Boheme"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8831303?app_id=they_good_bro",
+    "id": 8831303,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8831303\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-08-27T04:58:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2113110",
+      "id": 2113110,
+      "latitude": 40.7141667,
+      "name": "Metropolitan Opera"
+    }
+  },
+  {
+    "datetime": "2015-01-19T19:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/ADecadeOfSoul",
+        "name": "A DECADE OF SOUL"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9127347?app_id=they_good_bro",
+    "id": 9127347,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9127347\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988312,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/774276",
+      "id": 774276,
+      "latitude": 40.756692,
+      "name": "BB King Blues Club"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Savages",
+        "name": "Savages"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/FatWhiteFamily",
+        "name": "Fat white family"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8974596?app_id=they_good_bro",
+    "id": 8974596,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8974596\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-14T10:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9634781,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2003101",
+      "id": 2003101,
+      "latitude": 40.7099838,
+      "name": "Baby's All Right"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/GregHumphreysElectricTrio",
+        "name": "Greg Humphreys Electric Trio"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JanBellAndTheMaybelles",
+        "name": "Jan Bell & The Maybelles"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheSwedes",
+        "name": "The Swedes"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9211700?app_id=they_good_bro",
+    "id": 9211700,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9211700\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2015-01-02T16:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.991989,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/324921",
+      "id": 324921,
+      "latitude": 40.725819,
+      "name": "The Bowery Electric"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MarineFutin",
+        "name": "MARINE FUTIN"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9202495?app_id=they_good_bro",
+    "id": 9202495,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9202495\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2566228",
+      "id": 2566228,
+      "latitude": 40.7141667,
+      "name": "Jules Bistrot"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheLooseCanyons",
+        "name": "The Loose Canyons"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9121877?app_id=they_good_bro",
+    "id": 9121877,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9121877\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1421164",
+      "id": 1421164,
+      "latitude": 40.65,
+      "name": "The Knitting Factory"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KatieJacoby",
+        "name": "Katie Jacoby"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9159021?app_id=they_good_bro",
+    "id": 9159021,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9159021\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988602,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/542785",
+      "id": 542785,
+      "latitude": 40.721279,
+      "name": "The Slipper Room"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": "e105c272-b5d7-4135-82ef-d60bded54345",
+        "url": "http:\/\/www.bandsintown.com\/TheWombats",
+        "name": "The Wombats"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8956301?app_id=they_good_bro",
+    "id": 8956301,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8956301\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-14T12:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.959623,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2041055",
+      "id": 2041055,
+      "latitude": 40.7207957,
+      "name": "Rough Trade NYC"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BroadwaySingsPink",
+        "name": "Broadway Sings Pink"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8810913?app_id=they_good_bro",
+    "id": 8810913,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8810913\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-10-08T16:30:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.985063,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/803789",
+      "id": 803789,
+      "latitude": 40.586235,
+      "name": "Highline Ballroom"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/RonGallo",
+        "name": "Ron Gallo"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9109159?app_id=they_good_bro",
+    "id": 9109159,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9109159\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1543386",
+      "id": 1543386,
+      "latitude": 40.65,
+      "name": "Knitting Factory"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/NickSumner",
+        "name": "Nick Sumner"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JosephWest",
+        "name": "Joseph West"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9030092?app_id=they_good_bro",
+    "id": 9030092,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9030092\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9635169,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1109567",
+      "id": 1109567,
+      "latitude": 40.6768383,
+      "name": "The Way Station"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": "9bfda160-0f1d-4a90-aaa6-b7142ac0dd55",
+        "url": "http:\/\/www.bandsintown.com\/Medina",
+        "name": "Medina"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DonClarke",
+        "name": "Don Clarke"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Musclecars",
+        "name": "Musclecars"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BobGravity",
+        "name": "Bob Gravity"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Ligaments",
+        "name": "Ligaments"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9189070?app_id=they_good_bro",
+    "id": 9189070,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9189070\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9279785,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1910150",
+      "id": 1910150,
+      "latitude": 40.697979,
+      "name": "Bossa Nova Civic Club"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": "5a803ee3-64c1-43ca-b7ab-323d1ac14474",
+        "url": "http:\/\/www.bandsintown.com\/OscarG.",
+        "name": "Oscar G."
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/PastDeep",
+        "name": "Past Deep"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9189071?app_id=they_good_bro",
+    "id": 9189071,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9189071\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9576194,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2048579",
+      "id": 2048579,
+      "latitude": 40.7221811,
+      "name": "Panther Room"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DeejayCommish",
+        "name": "Deejay Commish"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9141462?app_id=they_good_bro",
+    "id": 9141462,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9141462\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2528073",
+      "id": 2528073,
+      "latitude": 40.7141667,
+      "name": "Minton's "
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Wardell",
+        "name": "Wardell "
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9169882?app_id=they_good_bro",
+    "id": 9169882,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9169882\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-14T12:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.959623,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2037125",
+      "id": 2037125,
+      "latitude": 40.7207957,
+      "name": "Rough Trade"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Vomitface",
+        "name": "Vomitface"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9052133?app_id=they_good_bro",
+    "id": 9052133,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9052133\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9879075,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/336080",
+      "id": 336080,
+      "latitude": 40.7208379,
+      "name": "Cake Shop"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/CachaBacha",
+        "name": "CachaBacha"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9128424?app_id=they_good_bro",
+    "id": 9128424,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9128424\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.985367,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/985081",
+      "id": 985081,
+      "latitude": 40.717789,
+      "name": "The Delancey"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/RhettWalkerBand",
+        "name": "Rhett Walker Band"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9157096?app_id=they_good_bro",
+    "id": 9157096,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9157096\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988847,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/130342",
+      "id": 130342,
+      "latitude": 40.7218927,
+      "name": "Rockwood Music Hall"
+    }
+  },
+  {
+    "datetime": "2015-01-19T20:30:00",
+    "artists": [
+      {
+        "mbid": "d35ab625-daf1-439e-8b66-214caa967658",
+        "url": "http:\/\/www.bandsintown.com\/MagosHerrera",
+        "name": "Magos Herrera"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheHerrera-Gon%C3%A7alves-boccatoTrioFeaturingEdmarCastaneda",
+        "name": "The Herrera- Gon\u00e7alves -Boccato Trio featuring Edmar Castaneda"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9148410?app_id=they_good_bro",
+    "id": 9148410,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9148410\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.001816,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/309449",
+      "id": 309449,
+      "latitude": 40.731686,
+      "name": "Cornelia Street Cafe"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/HipHopAndSpokenWordOpenMic",
+        "name": "Hip Hop & Spoken Word Open Mic"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9088115?app_id=they_good_bro",
+    "id": 9088115,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9088115\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.943304,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/344415",
+      "id": 344415,
+      "latitude": 40.818474,
+      "name": "Shrine World Music Venue"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MeganVice",
+        "name": "Megan Vice"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9116629?app_id=they_good_bro",
+    "id": 9116629,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9116629\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.987707,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/281899",
+      "id": 281899,
+      "latitude": 40.720984,
+      "name": "Pianos NYC"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/AbbyHollanderBand",
+        "name": "Abby Hollander Band"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9010136?app_id=they_good_bro",
+    "id": 9010136,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9010136\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Astoria",
+      "longitude": -73.919228,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1523005",
+      "id": 1523005,
+      "latitude": 40.765469,
+      "name": "Sweet Afton"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JacobMondry",
+        "name": "Jacob Mondry"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9170219?app_id=they_good_bro",
+    "id": 9170219,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9170219\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2574199",
+      "id": 2574199,
+      "latitude": 40.7141667,
+      "name": "PIT"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Arlene%27sWorldFamousRockN%27RollKaraokeBand",
+        "name": "Arlene's World Famous Rock n' Roll Karaoke Band"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9100719?app_id=they_good_bro",
+    "id": 9100719,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9100719\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988235,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/25713",
+      "id": 25713,
+      "latitude": 40.721328,
+      "name": "Arlene's Grocery"
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:30:07",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KerenAndTheSugarDaddys",
+        "name": "Keren and the Sugar daddys"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9199431?app_id=they_good_bro",
+    "id": 9199431,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9199431\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2432015",
+      "id": 2432015,
+      "latitude": 40.7141667,
+      "name": "Sojourn "
+    }
+  },
+  {
+    "datetime": "2015-01-19T21:30:32",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KerenBotaro",
+        "name": "Keren Botaro"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9199397?app_id=they_good_bro",
+    "id": 9199397,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9199397\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2432015",
+      "id": 2432015,
+      "latitude": 40.7141667,
+      "name": "Sojourn "
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BrentBirckheadMusic",
+        "name": "Brent Birckhead Music"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9137439?app_id=they_good_bro",
+    "id": 9137439,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9137439\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2475710",
+      "id": 2475710,
+      "latitude": 40.7141667,
+      "name": "Village Underground"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/HeartBreak",
+        "name": "Heart Break"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9192740?app_id=they_good_bro",
+    "id": 9192740,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9192740\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9890976,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/47414",
+      "id": 47414,
+      "latitude": 40.7271996,
+      "name": "Lit Lounge"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DjSpynfoFromHot97",
+        "name": "Dj Spynfo from Hot 97"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9157219?app_id=they_good_bro",
+    "id": 9157219,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9157219\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.999297,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/337195",
+      "id": 337195,
+      "latitude": 40.727682,
+      "name": "Le Souk"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/AngelaMccluskeyAndPaulCantelon",
+        "name": "Angela McCluskey and Paul Cantelon"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9056638?app_id=they_good_bro",
+    "id": 9056638,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9056638\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988472,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1936690",
+      "id": 1936690,
+      "latitude": 40.7220688,
+      "name": "Rockwood Music Hall Stage 3"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": "e2a0c084-0648-4ba0-805d-b61e39d7a9b3",
+        "url": "http:\/\/www.bandsintown.com\/MingusBigBand",
+        "name": "Mingus Big Band"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9212368?app_id=they_good_bro",
+    "id": 9212368,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212368\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-12-15T17:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.95113,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/122487",
+      "id": 122487,
+      "latitude": 40.632982,
+      "name": "Jazz Standard"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:00:00",
+    "artists": [
+      {
+        "mbid": "093b79fc-d913-4580-8403-c2430f7a18ee",
+        "url": "http:\/\/www.bandsintown.com\/FrancoisK",
+        "name": "Francois K"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9080283?app_id=they_good_bro",
+    "id": 9080283,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9080283\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.007133,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/737811",
+      "id": 737811,
+      "latitude": 40.739806,
+      "name": "Cielo"
+    }
+  },
+  {
+    "datetime": "2015-01-19T22:30:00",
+    "artists": [
+      {
+        "mbid": "606518a1-475d-4dc9-8f5c-8e0ebe499a41",
+        "url": "http:\/\/www.bandsintown.com\/GiladHekselman",
+        "name": "Gilad Hekselman"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9132374?app_id=they_good_bro",
+    "id": 9132374,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9132374\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.007124,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2444741",
+      "id": 2444741,
+      "latitude": 40.71455,
+      "name": "Ari Hoenig Band - Smalls"
+    }
+  },
+  {
+    "datetime": "2015-01-19T23:00:00",
+    "artists": [
+      {
+        "mbid": "b769c53e-617f-4dd8-9577-59907a06d928",
+        "url": "http:\/\/www.bandsintown.com\/KristinDiable",
+        "name": "Kristin Diable"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9053121?app_id=they_good_bro",
+    "id": 9053121,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9053121\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2538829",
+      "id": 2538829,
+      "latitude": 40.7141667,
+      "name": "The McKittrick Hotel (Manderley Bar)"
+    }
+  },
+  {
+    "datetime": "2015-01-20T17:00:50",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Spinn%28official%29",
+        "name": "Spinn (Official)"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9164725?app_id=they_good_bro",
+    "id": 9164725,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9164725\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9886706,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2072864",
+      "id": 2072864,
+      "latitude": 40.6928001,
+      "name": "Hill Country BBQ"
+    }
+  },
+  {
+    "datetime": "2015-01-20T18:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/IraBermansMediaAll-stars",
+        "name": "Ira Bermans Media All-Stars"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9195098?app_id=they_good_bro",
+    "id": 9195098,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9195098\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988303,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1523258",
+      "id": 1523258,
+      "latitude": 40.756593,
+      "name": "B.B. King Blues Club & Grill"
+    }
+  },
+  {
+    "datetime": "2015-01-20T18:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/NickHakim",
+        "name": "Nick Hakim"
+      },
+      {
+        "mbid": "e105c272-b5d7-4135-82ef-d60bded54345",
+        "url": "http:\/\/www.bandsintown.com\/TheWombats",
+        "name": "The Wombats"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Wardell",
+        "name": "Wardell "
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8853774?app_id=they_good_bro",
+    "id": 8853774,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8853774\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-10-17T12:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.986825,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/37373",
+      "id": 37373,
+      "latitude": 40.72215,
+      "name": "Mercury Lounge"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheLastShip",
+        "name": "The Last Ship"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8841731?app_id=they_good_bro",
+    "id": 8841731,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8841731\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-05-24T03:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.98418,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/875467",
+      "id": 875467,
+      "latitude": 40.762961,
+      "name": "Neil Simon Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "6a72abe3-009f-4560-a441-5106d7ca1f30",
+        "url": "http:\/\/www.bandsintown.com\/TheRiver",
+        "name": "The River"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8839956?app_id=they_good_bro",
+    "id": 8839956,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8839956\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-06-06T03:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.00164,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1887431",
+      "id": 1887431,
+      "latitude": 40.761326,
+      "name": "CIRCLE LINE, THE BROOKLYN BOAT"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DeafRhino",
+        "name": "Deaf Rhino"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Creeptones",
+        "name": "Creeptones"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SeanCarolanProject",
+        "name": "Sean Carolan Project"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8915998?app_id=they_good_bro",
+    "id": 8915998,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8915998\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988235,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/25713",
+      "id": 25713,
+      "latitude": 40.721328,
+      "name": "Arlene's Grocery"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BrentAndCo.",
+        "name": "Brent & Co."
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9144352?app_id=they_good_bro",
+    "id": 9144352,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9144352\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NJ",
+      "city": "Mahwah",
+      "longitude": -74.178036,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/286915",
+      "id": 286915,
+      "latitude": 41.082872,
+      "name": "Ramapo College"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "0e6cc5e5-4f03-4993-a481-d70d0e354d9f",
+        "url": "http:\/\/www.bandsintown.com\/Extreme-TheBand",
+        "name": "Extreme - The Band"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8978987?app_id=they_good_bro",
+    "id": 8978987,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8978987\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NJ",
+      "city": "Englewood",
+      "longitude": -73.974953,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1267078",
+      "id": 1267078,
+      "latitude": 40.894762,
+      "name": "Bergen P.A.C"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Marie-claireMusic",
+        "name": "marie-claire music"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9165872?app_id=they_good_bro",
+    "id": 9165872,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9165872\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.992,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2163963",
+      "id": 2163963,
+      "latitude": 40.741568,
+      "name": "Metropolitan Room"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Marie-claireMusic",
+        "name": "marie-claire music"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9165873?app_id=they_good_bro",
+    "id": 9165873,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9165873\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.992,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2163963",
+      "id": 2163963,
+      "latitude": 40.741568,
+      "name": "Metropolitan Room"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheBookOfMormon",
+        "name": "The Book of Mormon"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8847199?app_id=they_good_bro",
+    "id": 8847199,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8847199\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-01-30T01:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.985756,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1711376",
+      "id": 1711376,
+      "latitude": 40.761075,
+      "name": "Eugene O'Neill Theater"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/AshleyDaneman",
+        "name": "Ashley Daneman"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8926819?app_id=they_good_bro",
+    "id": 8926819,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8926819\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1389400",
+      "id": 1389400,
+      "latitude": 40.7141667,
+      "name": "Rockwood music hall - Stage 1"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "4e747f3f-f4eb-4bc7-a58c-5636cb6a98a8",
+        "url": "http:\/\/www.bandsintown.com\/TheElephantMan",
+        "name": "The Elephant Man"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8839791?app_id=they_good_bro",
+    "id": 8839791,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8839791\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-07-09T06:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9863773,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2316933",
+      "id": 2316933,
+      "latitude": 40.7582568,
+      "name": "Booth Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KYNG",
+        "name": "KYNG"
+      },
+      {
+        "mbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+        "url": "http:\/\/www.bandsintown.com\/Seether",
+        "name": "Seether"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Islander",
+        "name": "Islander"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SeetherAndPapaRoach",
+        "name": "Seether and Papa Roach"
+      },
+      {
+        "mbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+        "url": "http:\/\/www.bandsintown.com\/PapaRoach",
+        "name": "Papa Roach"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/PapaRoachKyng",
+        "name": "Papa Roach Kyng"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SeetherAndPapaRoach",
+        "name": "SEETHER & PAPA ROACH"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8925565?app_id=they_good_bro",
+    "id": 8925565,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8925565\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-04T15:45:50",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.992414,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/290649",
+      "id": 290649,
+      "latitude": 40.769704,
+      "name": "Terminal 5"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/ADelicateBalance",
+        "name": "A Delicate Balance"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8847756?app_id=they_good_bro",
+    "id": 8847756,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8847756\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-08-30T02:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9898758,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2483814",
+      "id": 2483814,
+      "latitude": 40.7594833,
+      "name": "John Golden Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MoonPrincess",
+        "name": "Moon Princess"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9164687?app_id=they_good_bro",
+    "id": 9164687,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9164687\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2015-01-15T01:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.979488,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2571779",
+      "id": 2571779,
+      "latitude": 40.66544,
+      "name": "Garfield"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheCuriousIncidentOfTheDogInTheNight-time",
+        "name": "The Curious Incident Of The Dog In The Night-Time"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8845726?app_id=they_good_bro",
+    "id": 8845726,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8845726\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-03-28T22:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/295124",
+      "id": 295124,
+      "latitude": 40.7141667,
+      "name": "Barrymore Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/NewYorkRangersVs.OttawaSenators",
+        "name": "New York Rangers vs. Ottawa Senators"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8553640?app_id=they_good_bro",
+    "id": 8553640,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8553640\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-08-09T02:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9933853,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/313336",
+      "id": 313336,
+      "latitude": 40.7504807,
+      "name": "Madison Square Garden"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/ChildrenOfPop",
+        "name": "Children of Pop"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TheHighway",
+        "name": "The Highway"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/StephenNielsen",
+        "name": "Stephen Nielsen"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JoseyDear",
+        "name": "Josey Dear"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9024948?app_id=they_good_bro",
+    "id": 9024948,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9024948\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-27T19:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.987707,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/281899",
+      "id": 281899,
+      "latitude": 40.720984,
+      "name": "Pianos NYC"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "cdb65fca-af23-4871-b6a1-0512cbb6488d",
+        "url": "http:\/\/www.bandsintown.com\/JeffDaniels",
+        "name": "Jeff Daniels"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8863729?app_id=they_good_bro",
+    "id": 8863729,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8863729\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.005791,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/350864",
+      "id": 350864,
+      "latitude": 40.726343,
+      "name": "City Winery"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "9ff51ecf-d282-4a26-8ac9-85d69bd3079b",
+        "url": "http:\/\/www.bandsintown.com\/ALADDIN",
+        "name": "ALADDIN"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8843256?app_id=they_good_bro",
+    "id": 8843256,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8843256\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-07-28T13:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/325768",
+      "id": 325768,
+      "latitude": 40.7141667,
+      "name": "New Amsterdam Theater"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:00:00",
+    "artists": [
+      {
+        "mbid": "2585f7c1-8f6e-4225-987a-621dca87885e",
+        "url": "http:\/\/www.bandsintown.com\/Cabaret",
+        "name": "Cabaret"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8833021?app_id=they_good_bro",
+    "id": 8833021,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8833021\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-08-21T21:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/428301",
+      "id": 428301,
+      "latitude": 40.7141667,
+      "name": "Studio 54"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/QuincyMumfordAndTheReasonWhy",
+        "name": "Quincy Mumford and the Reason Why"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9076063?app_id=they_good_bro",
+    "id": 9076063,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9076063\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1421164",
+      "id": 1421164,
+      "latitude": 40.65,
+      "name": "The Knitting Factory"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BenR.Mackie",
+        "name": "Ben R. Mackie"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9149549?app_id=they_good_bro",
+    "id": 9149549,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9149549\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9635169,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1109567",
+      "id": 1109567,
+      "latitude": 40.6768383,
+      "name": "The Way Station"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": "36e8fd9c-2688-42ee-b46d-71ef5380cbc8",
+        "url": "http:\/\/www.bandsintown.com\/Closed",
+        "name": "Closed"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9212365?app_id=they_good_bro",
+    "id": 9212365,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9212365\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-01-24T10:10:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.95113,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/122487",
+      "id": 122487,
+      "latitude": 40.632982,
+      "name": "Jazz Standard"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": "2be2cd01-8501-4769-952e-3cec14cfb74c",
+        "url": "http:\/\/www.bandsintown.com\/JoeyCalderazzo",
+        "name": "Joey Calderazzo"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9168863?app_id=they_good_bro",
+    "id": 9168863,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9168863\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2476563",
+      "id": 2476563,
+      "latitude": 40.7141667,
+      "name": "Jazz At Lincoln Center - Appel Room"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+        "url": "http:\/\/www.bandsintown.com\/SufjanStevens",
+        "name": "Sufjan Stevens"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Yarn%252FWire",
+        "name": "Yarn\/Wire"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8961505?app_id=they_good_bro",
+    "id": 8961505,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8961505\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-12-01T00:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.9777052,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/287129",
+      "id": 287129,
+      "latitude": 40.6864624,
+      "name": "BAM"
+    }
+  },
+  {
+    "datetime": "2015-01-20T19:30:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JanKusQuartet",
+        "name": "Jan Kus Quartet"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9161198?app_id=they_good_bro",
+    "id": 9161198,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9161198\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.992954,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1344074",
+      "id": 1344074,
+      "latitude": 40.767031,
+      "name": "Gallery MC"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SecretScienceClub",
+        "name": "Secret Science Club"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9018900?app_id=they_good_bro",
+    "id": 9018900,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9018900\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.990726,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/339505",
+      "id": 339505,
+      "latitude": 40.673161,
+      "name": "The Bell House"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Thick",
+        "name": "Thick"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9056798?app_id=they_good_bro",
+    "id": 9056798,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9056798\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9879075,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/336080",
+      "id": 336080,
+      "latitude": 40.7208379,
+      "name": "Cake Shop"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": "e618770f-e994-41c3-856f-1eedf56b6d74",
+        "url": "http:\/\/www.bandsintown.com\/TheTingTings",
+        "name": "The Ting Tings"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8981795?app_id=they_good_bro",
+    "id": 8981795,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8981795\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-21T12:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.993731,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/746612",
+      "id": 746612,
+      "latitude": 40.720398,
+      "name": "Bowery Ballroom"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/Terminal5",
+        "name": "Terminal 5"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9083698?app_id=they_good_bro",
+    "id": 9083698,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9083698\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1167245",
+      "id": 1167245,
+      "latitude": 40.7141667,
+      "name": "Terminal Five"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/See",
+        "name": "See"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9154118?app_id=they_good_bro",
+    "id": 9154118,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9154118\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Bellmore",
+      "longitude": -73.5275,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2568236",
+      "id": 2568236,
+      "latitude": 40.6686111,
+      "name": "KJ Farrell's (8PM)"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/BrotherValiant",
+        "name": "Brother Valiant"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9076581?app_id=they_good_bro",
+    "id": 9076581,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9076581\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.9836583,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1211626",
+      "id": 1211626,
+      "latitude": 40.7619274,
+      "name": "Iridium Jazz Club"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DeejayCam",
+        "name": "Deejay Cam"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9164389?app_id=they_good_bro",
+    "id": 9164389,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9164389\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.955629,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2566138",
+      "id": 2566138,
+      "latitude": 40.712,
+      "name": "Whiskey Brooklyn"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JohnRaymond",
+        "name": "John Raymond"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9193335?app_id=they_good_bro",
+    "id": 9193335,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9193335\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2583314",
+      "id": 2583314,
+      "latitude": 40.7141667,
+      "name": "\"Roots\" Trio w\/Gilad Hekselman & Colin Stranahan @ Cornelia Street Cafe"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/TenthIntervention",
+        "name": "TENTH INTERVENTION"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/DorianWallace",
+        "name": "Dorian Wallace"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8973186?app_id=they_good_bro",
+    "id": 8973186,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8973186\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.0063889,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1875226",
+      "id": 1875226,
+      "latitude": 40.7141667,
+      "name": "Shrine World Music Venue"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": "a9d39392-8a62-4be9-b80d-8f9c0ca16059",
+        "url": "http:\/\/www.bandsintown.com\/Stomp",
+        "name": "Stomp"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8841884?app_id=they_good_bro",
+    "id": 8841884,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8841884\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-04-30T01:00:00",
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.987702,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1030586",
+      "id": 1030586,
+      "latitude": 40.728294,
+      "name": "Orpheum Theatre"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": "5fada01d-b3f5-49b9-8b2b-8fb8873e39a4",
+        "url": "http:\/\/www.bandsintown.com\/BigLazy",
+        "name": "Big Lazy"
+      },
+      {
+        "mbid": "9756e809-9df3-4383-9834-835f5b7a577f",
+        "url": "http:\/\/www.bandsintown.com\/JimCampilongoElectricTrio",
+        "name": "Jim Campilongo Electric Trio"
+      },
+      {
+        "mbid": "cbf6e7d6-a1ec-4d4e-9f83-40d288c56b43",
+        "url": "http:\/\/www.bandsintown.com\/JimCampilongo",
+        "name": "Jim Campilongo"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9005481?app_id=they_good_bro",
+    "id": 9005481,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9005481\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-21T17:50:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.987769,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/718169",
+      "id": 718169,
+      "latitude": 40.72086,
+      "name": "Living Room"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/JesseMacht",
+        "name": "Jesse Macht"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MackenzieShivers",
+        "name": "Mackenzie Shivers"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/CaitlinMahoney",
+        "name": "Caitlin Mahoney"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8783532?app_id=they_good_bro",
+    "id": 8783532,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8783532\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988847,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/130342",
+      "id": 130342,
+      "latitude": 40.7218927,
+      "name": "Rockwood Music Hall"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KahliAbdu",
+        "name": "Kahli Abdu"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9006769?app_id=they_good_bro",
+    "id": 9006769,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9006769\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.95,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/1543386",
+      "id": 1543386,
+      "latitude": 40.65,
+      "name": "Knitting Factory"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/KahliAbduAndVhsSafari",
+        "name": "Kahli Abdu & VHS Safari"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MaxSwan",
+        "name": "Max Swan"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/StringsNSkins",
+        "name": "Strings N Skins"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8998133?app_id=they_good_bro",
+    "id": 8998133,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8998133\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": "2014-11-21T10:00:00",
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.955884,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/372456",
+      "id": 372456,
+      "latitude": 40.714138,
+      "name": "Knitting Factory"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:00",
+    "artists": [
+      {
+        "mbid": "2fad35e5-3108-475b-8f9e-a913180021c9",
+        "url": "http:\/\/www.bandsintown.com\/ChildAbuse",
+        "name": "Child Abuse"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/SeabrookPowerPlant",
+        "name": "Seabrook Power Plant"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/MattNelson",
+        "name": "Matt Nelson"
+      },
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/WindHorse",
+        "name": "WindHorse"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9107445?app_id=they_good_bro",
+    "id": 9107445,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9107445\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Brooklyn",
+      "longitude": -73.934179,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/869069",
+      "id": 869069,
+      "latitude": 40.698669,
+      "name": "Silent Barn"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:00:55",
+    "artists": [
+      {
+        "mbid": null,
+        "url": "http:\/\/www.bandsintown.com\/ChrisConteMusic",
+        "name": "Chris Conte Music"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9181405?app_id=they_good_bro",
+    "id": 9181405,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9181405\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "unavailable",
+    "venue": {
+      "region": "NY",
+      "city": "Hastings-On-Hudson",
+      "longitude": -73.882313,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/2577662",
+      "id": 2577662,
+      "latitude": 40.99466,
+      "name": "The Mill"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:15:00",
+    "artists": [
+      {
+        "mbid": "f630bd98-4e2b-49a4-96d5-c4c4b99b58bf",
+        "url": "http:\/\/www.bandsintown.com\/JesseHarris",
+        "name": "Jesse Harris"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/9047672?app_id=they_good_bro",
+    "id": 9047672,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/9047672\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -73.988738,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/920068",
+      "id": 920068,
+      "latitude": 40.721854,
+      "name": "Rockwood Music Hall Stage 2"
+    }
+  },
+  {
+    "datetime": "2015-01-20T20:30:00",
+    "artists": [
+      {
+        "mbid": "f573100a-b05b-4286-83f0-5620adf73695",
+        "url": "http:\/\/www.bandsintown.com\/FredHersch",
+        "name": "Fred Hersch"
+      }
+    ],
+    "url": "http:\/\/www.bandsintown.com\/event\/8817283?app_id=they_good_bro",
+    "id": 8817283,
+    "ticket_url": "http:\/\/www.bandsintown.com\/event\/8817283\/buy_tickets?app_id=they_good_bro",
+    "on_sale_datetime": null,
+    "ticket_status": "available",
+    "venue": {
+      "region": "NY",
+      "city": "New York",
+      "longitude": -74.001607,
+      "country": "United States",
+      "url": "http:\/\/www.bandsintown.com\/venue\/167780",
+      "id": 167780,
+      "latitude": 40.735927,
+      "name": "Village Vanguard"
+    }
+  }
+]

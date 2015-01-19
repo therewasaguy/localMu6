@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <script type-"text/javascript" src="privateStuff.js"></script>
+
+    <script type="text/javascript" src="lib/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="lib/jquery.cookie.js"></script>
+    <script type-"text/javascript" src="lib/echonest.js"></script>
+
+    <script type-"text/javascript" src="scripts/userTasteProfile.js"></script>
+    <script type-"text/javascript" src="scripts/locationTasteProfile.js"></script>
+    <script type-"text/javascript" src="scripts/suggestEvents.js"></script>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <!-- form-->
+      <div id="the-form" class="span10 well">
+        <h1> Taste Profile Demo</h1>
+        <p class=""> Hello...</p>
+        <div id="create">
+            <h4> Create a taste profile </h4>
+            <input id="artists" type="text" class="input-xxlarge" placeholder="Enter comma separated artist names  ..." </input>
+            <button class="btn btn-primary" id="go"> Go </button>
+            <div id="status" class="hide">
+              <div class="progress progress-striped">
+                  <div id='progress-bar' class="bar"> </div>
+              </div>
+            </div>
+        </div>
+      </div>
+
+      <!-- info-->
+      <div id="more-info" class="span4">
+        <div id='tp-buttons'>
+<!--
+          <button class='btn btn-primary' id='view-tp'> View Profile </button>
+          <a class='btn btn-danger' href="#resetModal" data-toggle="modal"> Reset Profile </a>
+        </div>
+ -->
+          <div id="info-container">
+            <div id="info" class=""> </div>
+          </div>
+      </div>
+
+    </div> <!-- end container-->
+
+  </body>
+
+</html>
